@@ -1,4 +1,6 @@
-# Instructions  
+nom = Dan
+age = 27
+{f"je m'appelle "nom" et j'ai "age" ans.}
 
 1. Créez une variable nommée `nom` et attribuez-y votre **nom**.
 2. Créez une variable nommée `age` et attribuez-y votre **âge**.
