@@ -1,4 +1,11 @@
-# Instructions  
+nom = Dan
+age = 27
+taille = 176
+booleen = true
+type(nom)
+type(age)
+type(taille)
+type(booleen)
 
 1. Définissez une variable `nom` contenant votre **nom** sous forme de chaîne de caractères.
 2. Définissez une variable `age` contenant votre **âge** sous forme d'un entier.
